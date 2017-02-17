@@ -1,257 +1,257 @@
 [
-  [
-    "AA", 
-    "\u0251", 
-    "father (F AA1 DH ER), cot (K AA1 T)"
-  ], 
-  [
-    "AA R", 
-    "\u0251r", 
-    "large (L AA1 R JH); hard (HH AA1 R D)"
-  ], 
-  [
-    "AE", 
-    "\u00e6", 
-    "at (AE1 T); fast (F AE1 S T)"
-  ], 
-  [
-    "AH1", 
-    "\u028c", 
-    "but (B AH1 T), sun (S AH1 N)"
-  ], 
-  [
-    "AH2", 
-    "\u028c", 
-    "but (B AH1 T), sun (S AH1 N)"
-  ], 
-  [
-    "AH0", 
-    "\u0259", 
-    "sofa (S OW1 F AH), alone (AH L OW1 N)"
-  ], 
-  [
-    "AO", 
-    "\u0254", 
-    "off (AO1 F); fall (F AO1 L); frost (F R AO1 S T)"
-  ], 
-  [
-    "AO R", 
-    "\u0254r", 
-    "more (M AO1 R); bored (B AO1 R D); chord (K AO1 R D)"
-  ], 
-  [
-    "AW", 
-    "a\u028a", 
-    "how (HH AW1); now (N AW1)"
-  ], 
-  [
-    "AW R", 
-    "a\u028ar", 
-    "This seems to be a rarely used r-controlled vowel. In some dialects flower (F L AW1 R; in other dialects F L AW1 ER0)"
-  ], 
-  [
-    "AY", 
-    "a\u026a", 
-    "my (M AY1); why (W AY1); ride (R AY1 D)"
-  ], 
-  [
-    "B", 
-    "b", 
-    "buy (B AY1)"
-  ], 
-  [
-    "CH", 
-    "t\u0283", 
-    "chair (CH EH1 R)"
-  ], 
-  [
-    "D", 
-    "d", 
-    "day (D EY1)"
-  ], 
-  [
-    "DH", 
-    "\u00f0", 
-    "that (DH AE1 T); the (DH AH0); them (DH EH1 M)"
-  ], 
-  [
-    "EH", 
-    "\u025b", 
-    "red (R EH1 D); men (M EH1 N)"
-  ], 
-  [
-    "EH R", 
-    "\u025br", 
-    "air (EH1 R); where (W EH1 R); hair (HH EH1 R)"
-  ], 
-  [
-    "ER0", 
-    "\u025a", 
-    "father (F AA1 DH ER); coward (K AW1 ER D)"
-  ], 
-  [
-    "ER1", 
-    "\u025d", 
-    "her (HH ER0); bird (B ER1 D); hurt (HH ER1 T), nurse (N ER1 S)"
-  ], 
-  [
-    "ER2", 
-    "\u025d", 
-    "her (HH ER0); bird (B ER1 D); hurt (HH ER1 T), nurse (N ER1 S)"
-  ], 
-  [
-    "EY", 
-    "e\u026a", 
-    "say (S EY1); eight (EY1 T)"
-  ], 
-  [
-    "F", 
-    "f", 
-    "for (F AO1 R)"
-  ], 
-  [
-    "G", 
-    "\u0261", 
-    "go (G OW1)"
-  ], 
-  [
-    "HH", 
-    "h", 
-    "house (HH AW1 S)"
-  ], 
-  [
-    "IH", 
-    "\u026a", 
-    "big (B IH1 G); win (W IH1 N)"
-  ], 
-  [
-    "IH R", 
-    "\u026ar", 
-    "ear (IY1 R); near (N IH1 R)"
-  ], 
-  [
-    "IY", 
-    "i", 
-    "bee (B IY1); she (SH IY1)"
-  ], 
-  [
-    "IY R", 
-    "\u026ar", 
-    "ear (IY1 R); near (N IH1 R)"
-  ], 
-  [
-    "JH", 
-    "d\u0292", 
-    "just (JH AH1 S T); gym (JH IH1 M)"
-  ], 
-  [
-    "K", 
-    "k", 
-    "key (K IY1)"
-  ], 
-  [
-    "L", 
-    "l", 
-    "late (L EY1 T)"
-  ], 
-  [
-    "M", 
-    "m", 
-    "man (M AE1 N)"
-  ], 
-  [
-    "N", 
-    "n", 
-    "no (N OW1)"
-  ], 
-  [
-    "NG", 
-    "\u014b", 
-    "sing (S IH1 NG)"
-  ], 
-  [
-    "OW", 
-    "o\u028a", 
-    "show (SH OW1); coat (K OW1 T)"
-  ], 
-  [
-    "OY", 
-    "\u0254\u026a", 
-    "boy (B OY1); toy (T OY1)"
-  ], 
-  [
-    "P", 
-    "p", 
-    "pay (P EY1)"
-  ], 
-  [
-    "R", 
-    "\u0279", 
-    "run (R AH1 N)"
-  ], 
-  [
-    "S", 
-    "s", 
-    "say (S EY1)"
-  ], 
-  [
-    "SH", 
-    "\u0283", 
-    "show (SH OW1)"
-  ], 
-  [
-    "T", 
-    "t", 
-    "take (T EY1 K)"
-  ], 
-  [
-    "TH", 
-    "\u03b8", 
-    "thanks (TH AE1 NG K S); Thursday (TH ER1 Z D EY2)"
-  ], 
-  [
-    "UH", 
-    "\u028a", 
-    "should (SH UH1 D), could (K UH1 D)"
-  ], 
-  [
-    "UH1 R", 
-    "\u028ar", 
-    "cure (K Y UH1 R); bureau (B Y UH1 R OW0), detour (D IH0 T UH1 R)"
-  ], 
-  [
-    "UH2 R", 
-    "\u028ar", 
-    "cure (K Y UH1 R); bureau (B Y UH1 R OW0), detour (D IH0 T UH1 R)"
-  ], 
-  [
-    "UW", 
-    "u", 
-    "you (Y UW1); new (N UW1); food (F UW1 D)"
-  ], 
-  [
-    "V", 
-    "v", 
-    "very (V EH1 R IY0)"
-  ], 
-  [
-    "W", 
-    "w", 
-    "way (W EY1)"
-  ], 
-  [
-    "Y", 
-    "j", 
-    "yes (Y EH1 S)"
-  ], 
-  [
-    "Z", 
-    "z", 
-    "zoo (Z UW1)"
-  ], 
-  [
-    "ZH", 
-    "\u0292", 
-    "measure (M EH1 ZH ER0); pleasure (P L EH1 ZH ER)"
-  ]
+  {
+    "arpabet": "AA",
+    "ipa": "ɑ",
+    "example": "father (F AA1 DH ER), cot (K AA1 T)"
+  },
+  {
+    "arpabet": "AA R",
+    "ipa": "ɑr",
+    "example": "large (L AA1 R JH); hard (HH AA1 R D)"
+  },
+  {
+    "arpabet": "AE",
+    "ipa": "æ",
+    "example": "at (AE1 T); fast (F AE1 S T)"
+  },
+  {
+    "arpabet": "AH1",
+    "ipa": "ʌ",
+    "example": "but (B AH1 T), sun (S AH1 N)"
+  },
+  {
+    "arpabet": "AH2",
+    "ipa": "ʌ",
+    "example": "but (B AH1 T), sun (S AH1 N)"
+  },
+  {
+    "arpabet": "AH0",
+    "ipa": "ə",
+    "example": "sofa (S OW1 F AH), alone (AH L OW1 N)"
+  },
+  {
+    "arpabet": "AO",
+    "ipa": "ɔ",
+    "example": "off (AO1 F); fall (F AO1 L); frost (F R AO1 S T)"
+  },
+  {
+    "arpabet": "AO R",
+    "ipa": "ɔr",
+    "example": "more (M AO1 R); bored (B AO1 R D); chord (K AO1 R D)"
+  },
+  {
+    "arpabet": "AW",
+    "ipa": "aʊ",
+    "example": "how (HH AW1); now (N AW1)"
+  },
+  {
+    "arpabet": "AW R",
+    "ipa": "aʊr",
+    "example": "This seems to be a rarely used r-controlled vowel. In some dialects flower (F L AW1 R; in other dialects F L AW1 ER0)"
+  },
+  {
+    "arpabet": "AY",
+    "ipa": "aɪ",
+    "example": "my (M AY1); why (W AY1); ride (R AY1 D)"
+  },
+  {
+    "arpabet": "B",
+    "ipa": "b",
+    "example": "buy (B AY1)"
+  },
+  {
+    "arpabet": "CH",
+    "ipa": "tʃ",
+    "example": "chair (CH EH1 R)"
+  },
+  {
+    "arpabet": "D",
+    "ipa": "d",
+    "example": "day (D EY1)"
+  },
+  {
+    "arpabet": "DH",
+    "ipa": "ð",
+    "example": "that (DH AE1 T); the (DH AH0); them (DH EH1 M)"
+  },
+  {
+    "arpabet": "EH",
+    "ipa": "ɛ",
+    "example": "red (R EH1 D); men (M EH1 N)"
+  },
+  {
+    "arpabet": "EH R",
+    "ipa": "ɛr",
+    "example": "air (EH1 R); where (W EH1 R); hair (HH EH1 R)"
+  },
+  {
+    "arpabet": "ER0",
+    "ipa": "ɚ",
+    "example": "father (F AA1 DH ER); coward (K AW1 ER D)"
+  },
+  {
+    "arpabet": "ER1",
+    "ipa": "ɝ",
+    "example": "her (HH ER0); bird (B ER1 D); hurt (HH ER1 T), nurse (N ER1 S)"
+  },
+  {
+    "arpabet": "ER2",
+    "ipa": "ɝ",
+    "example": "her (HH ER0); bird (B ER1 D); hurt (HH ER1 T), nurse (N ER1 S)"
+  },
+  {
+    "arpabet": "EY",
+    "ipa": "eɪ",
+    "example": "say (S EY1); eight (EY1 T)"
+  },
+  {
+    "arpabet": "F",
+    "ipa": "f",
+    "example": "for (F AO1 R)"
+  },
+  {
+    "arpabet": "G",
+    "ipa": "ɡ",
+    "example": "go (G OW1)"
+  },
+  {
+    "arpabet": "HH",
+    "ipa": "h",
+    "example": "house (HH AW1 S)"
+  },
+  {
+    "arpabet": "IH",
+    "ipa": "ɪ",
+    "example": "big (B IH1 G); win (W IH1 N)"
+  },
+  {
+    "arpabet": "IH R",
+    "ipa": "ɪr",
+    "example": "ear (IY1 R); near (N IH1 R)"
+  },
+  {
+    "arpabet": "IY",
+    "ipa": "i",
+    "example": "bee (B IY1); she (SH IY1)"
+  },
+  {
+    "arpabet": "IY R",
+    "ipa": "ɪr",
+    "example": "ear (IY1 R); near (N IH1 R)"
+  },
+  {
+    "arpabet": "JH",
+    "ipa": "dʒ",
+    "example": "just (JH AH1 S T); gym (JH IH1 M)"
+  },
+  {
+    "arpabet": "K",
+    "ipa": "k",
+    "example": "key (K IY1)"
+  },
+  {
+    "arpabet": "L",
+    "ipa": "l",
+    "example": "late (L EY1 T)"
+  },
+  {
+    "arpabet": "M",
+    "ipa": "m",
+    "example": "man (M AE1 N)"
+  },
+  {
+    "arpabet": "N",
+    "ipa": "n",
+    "example": "no (N OW1)"
+  },
+  {
+    "arpabet": "NG",
+    "ipa": "ŋ",
+    "example": "sing (S IH1 NG)"
+  },
+  {
+    "arpabet": "OW",
+    "ipa": "oʊ",
+    "example": "show (SH OW1); coat (K OW1 T)"
+  },
+  {
+    "arpabet": "OY",
+    "ipa": "ɔɪ",
+    "example": "boy (B OY1); toy (T OY1)"
+  },
+  {
+    "arpabet": "P",
+    "ipa": "p",
+    "example": "pay (P EY1)"
+  },
+  {
+    "arpabet": "R",
+    "ipa": "ɹ",
+    "example": "run (R AH1 N)"
+  },
+  {
+    "arpabet": "S",
+    "ipa": "s",
+    "example": "say (S EY1)"
+  },
+  {
+    "arpabet": "SH",
+    "ipa": "ʃ",
+    "example": "show (SH OW1)"
+  },
+  {
+    "arpabet": "T",
+    "ipa": "t",
+    "example": "take (T EY1 K)"
+  },
+  {
+    "arpabet": "TH",
+    "ipa": "θ",
+    "example": "thanks (TH AE1 NG K S); Thursday (TH ER1 Z D EY2)"
+  },
+  {
+    "arpabet": "UH",
+    "ipa": "ʊ",
+    "example": "should (SH UH1 D), could (K UH1 D)"
+  },
+  {
+    "arpabet": "UH1 R",
+    "ipa": "ʊr",
+    "example": "cure (K Y UH1 R); bureau (B Y UH1 R OW0), detour (D IH0 T UH1 R)"
+  },
+  {
+    "arpabet": "UH2 R",
+    "ipa": "ʊr",
+    "example": "cure (K Y UH1 R); bureau (B Y UH1 R OW0), detour (D IH0 T UH1 R)"
+  },
+  {
+    "arpabet": "UW",
+    "ipa": "u",
+    "example": "you (Y UW1); new (N UW1); food (F UW1 D)"
+  },
+  {
+    "arpabet": "V",
+    "ipa": "v",
+    "example": "very (V EH1 R IY0)"
+  },
+  {
+    "arpabet": "W",
+    "ipa": "w",
+    "example": "way (W EY1)"
+  },
+  {
+    "arpabet": "Y",
+    "ipa": "j",
+    "example": "yes (Y EH1 S)"
+  },
+  {
+    "arpabet": "Z",
+    "ipa": "z",
+    "example": "zoo (Z UW1)"
+  },
+  {
+    "arpabet": "ZH",
+    "ipa": "ʒ",
+    "example": "measure (M EH1 ZH ER0); pleasure (P L EH1 ZH ER)"
+  }
 ]

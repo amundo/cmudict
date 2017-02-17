@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
+  
+<script>
+
+let oneOff = (a,b) => {
+  return a.phones.filter((A,i) => {
+    A != b.phones[i]
+  }).length == 1
+}
+
+class Word {
+  constructor({word, phones}){
+    this.word = word;
+    this.phones = phones;
+  }
+}
+
+let parseWord = ([word, phones]) => {
+  return new Word({word, phones}) 
+}
+
+let toIPA = phone => {
+  let a2i = { "AA": "ɑ", "AA R": "ɑr", "AE": "æ", "AH1": "ʌ", "AH2": "ʌ", "AH0": "ə",
+    "AO": "ɔ", "AO R": "ɔr", "AW": "aʊ", "AW R": "aʊr", "AY": "aɪ", "B": "b",
+    "CH": "tʃ", "D": "d", "DH": "ð", "EH": "ɛ", "EH R": "ɛr", "ER0": "ɚ",
+    "ER1": "ɝ", "ER2": "ɝ", "EY": "eɪ", "F": "f", "G": "ɡ", "HH": "h", "IH": "ɪ",
+    "IH R": "ɪr", "IY": "i", "IY R": "ɪr", "JH": "dʒ", "K": "k", "L": "l", "M": "m",
+    "N": "n", "NG": "ŋ", "OW": "oʊ", "OY": "ɔɪ", "P": "p", "R": "ɹ", "S": "s", "SH": "ʃ",
+    "T": "t", "TH": "θ", "UH": "ʊ", "UH1 R": "ʊr", "UH2 R": "ʊr", "UW": "u", "V": "v", "W": "w", 
+    "Y": "j", "Z": "z", "ZH": "ʒ"
+  }
+
+  return a2i[phone] || phone
+} 
+  
+let init = data => {
+  let lexicon = Object.entries(data).slice(0,10)
+    .map(([k,v]) => {
+       return {
+         token: k,
+         phones: v,
+         ipa: v.map(toIPA)
+       }
+    })
+  window.lexicon = lexicon;
+
+  return lexicon;
+}
+
+fetch('cmudict.json')
+  .then(r => r.json())
+  .then(init)
+  
+
+</script>
+
+
+</body>
+</html>

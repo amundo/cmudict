@@ -8,7 +8,7 @@ cmu = json.load(open('cmudict.json'))
 
 pron2word = dict([ (tuple(p), w) for w,p in cmu.items()])
 
-a_words = [(w,p) for w,p in cmu.items() if a in p if len(p) < 6]
+a_words = tuple([(w,p) for w,p in cmu.items() if a in p if len(p) < 6])
 
 b_words = []
 
